@@ -5,4 +5,4 @@ Link to view the website:
 ## Project details:
 * Developer: Daniel Davidraj M
 
-![IT Company Website](/images/IT Company.png)
+![ITCompanyWebsite](/images/ITCompany.png)
